@@ -1,0 +1,7 @@
+.dist
+dist
+*.so
+*.dylib
+*.o
+*.xml
+*.log
